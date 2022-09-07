@@ -1,7 +1,5 @@
 # MongoDB
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Why MongoDB
 - It is schema-free and does away with the need to define a fixed structure. You can just start adding data and it isn’t necessary to have any relation between those. The only restriction with this is the supported data structures.
 
